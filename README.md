@@ -15,8 +15,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/siva308912/Training/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/siva308912/Training/tree/master/0043-multiply-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/siva308912/Training/tree/master/0029-divide-two-integers) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/siva308912/Training/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/siva308912/Training/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
